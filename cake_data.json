@@ -1,0 +1,161 @@
+{
+    "cake_data":[
+    {
+      "title": "BLACKFOREST",
+      "image": "",
+      "price": {
+        "1": "45",
+        "1.5": "67",
+        "2": "90",
+        "2.5": "112",
+        "3": "135"
+      },
+      "description": "",
+      "ingredient": ""
+    },
+    {
+      "title": "PINEAPPLE",
+      "ingredient": "",
+      "image": "",
+      "price": {
+        "1": "45",
+        "1.5": "67",
+        "2": "90",
+        "2.5": "112",
+        "3": "135"
+      },
+      "description": ""
+    },
+    {
+      "title": "VANILLA",
+      "ingredient": "",
+      "image": "",
+      "price": {
+        "1": "45",
+        "1.5": "67",
+        "2": "90",
+        "2.5": "112",
+        "3": "135"
+      },
+      "description": ""
+    },
+    {
+      "title": "MANGO",
+      "ingredient": "",
+      "image": "",
+      "price": {
+        "1": "45",
+        "1.5": "67",
+        "2": "90",
+        "2.5": "112",
+        "3": "135"
+      },
+      "description": ""
+    },
+    {
+      "title": "CHOCOLATE CREAM",
+      "ingredient": "",
+      "image": "",
+      "price": {
+        "1": "45",
+        "1.5": "67",
+        "2": "90",
+        "2.5": "112",
+        "3": "135"
+      },
+      "description": ""
+    },
+    {
+      "title": "MANGO",
+      "ingredient": "",
+      "image": "",
+      "price": {
+        "1": "45",
+        "1.5": "67",
+        "2": "90",
+        "2.5": "112",
+        "3": "135"
+      },
+      "description": ""
+    },
+    {
+      "title": "CHOCOLATE CREAM",
+      "ingredient": "",
+      "image": "",
+      "price": {
+        "1": "45",
+        "1.5": "67",
+        "2": "90",
+        "2.5": "112",
+        "3": "135"
+      },
+      "description": ""
+    },
+    {
+      "title": "RASMALAI",
+      "ingredient": "",
+      "image": "",
+      "price": {
+        "1": "45",
+        "1.5": "67",
+        "2": "90",
+        "2.5": "112",
+        "3": "135"
+      },
+      "description": ""
+    },
+    {
+      "title": "PISTA",
+      "ingredient": "",
+      "image": "",
+      "price": {
+        "1": "45",
+        "1.5": "67",
+        "2": "90",
+        "2.5": "112",
+        "3": "135"
+      },
+      "description": ""
+    },
+    {
+      "title": "BUTTER SCOTCH",
+      "ingredient": "",
+      "image": "",
+      "price": {
+        "1": "45",
+        "1.5": "67",
+        "2": "90",
+        "2.5": "112",
+        "3": "135"
+      },
+      "description": ""
+    },
+    {
+      "title": "CHOCOLATE TRUFFLE",
+      "ingredient": "",
+      "image": "",
+      "price": {
+        "1": "45",
+        "1.5": "67",
+        "2": "90",
+        "2.5": "112",
+        "3": "135"
+      },
+      "description": ""
+    },
+    {
+      "title": "CUP CAKES",
+      "ingredient": "",
+      "image": "",
+      "price": {
+        "1": "45",
+        "1.5": "67",
+        "2": "90",
+        "2.5": "112",
+        "3": "135"
+      },
+      "description": ""
+    }
+  ]
+}
+  
