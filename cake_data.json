@@ -1,8 +1,8 @@
 {
     "cake_data":[
     {
-      "title": "BLACKFOREST",
-      "image": "",
+      "title": "Black Forest",
+      "image": "https://github.com/kartikmalhotra/cakes_data/raw/master/black_forest_cake.jpeg",
       "price": {
         "1": "45",
         "1.5": "67",
@@ -14,9 +14,9 @@
       "ingredient": ""
     },
     {
-      "title": "PINEAPPLE",
+      "title": "Pine Apple",
       "ingredient": "",
-      "image": "",
+      "image": "https://github.com/kartikmalhotra/cakes_data/raw/master/pineapple_cake.jpeg",
       "price": {
         "1": "45",
         "1.5": "67",
@@ -27,9 +27,8 @@
       "description": ""
     },
     {
-      "title": "VANILLA",
-      "ingredient": "",
-      "image": "",
+      "title": "Vanilla",
+      "image": "https://github.com/kartikmalhotra/cakes_data/raw/master/vanilla.jpeg",
       "price": {
         "1": "45",
         "1.5": "67",
@@ -40,9 +39,9 @@
       "description": ""
     },
     {
-      "title": "MANGO",
+      "title": "Mango",
       "ingredient": "",
-      "image": "",
+      "image": "https://github.com/kartikmalhotra/cakes_data/raw/master/mango.jpeg",
       "price": {
         "1": "45",
         "1.5": "67",
@@ -53,9 +52,9 @@
       "description": ""
     },
     {
-      "title": "CHOCOLATE CREAM",
+      "title": "Chocolate Cream",
       "ingredient": "",
-      "image": "",
+      "image": "https://github.com/kartikmalhotra/cakes_data/raw/master/chocolate_cake.jpeg",
       "price": {
         "1": "45",
         "1.5": "67",
@@ -66,9 +65,9 @@
       "description": ""
     },
     {
-      "title": "MANGO",
+      "title": "Mango",
       "ingredient": "",
-      "image": "",
+      "image": "https://github.com/kartikmalhotra/cakes_data/raw/master/mango.jpeg",
       "price": {
         "1": "45",
         "1.5": "67",
@@ -79,9 +78,9 @@
       "description": ""
     },
     {
-      "title": "CHOCOLATE CREAM",
+      "title": "Rasmalai",
       "ingredient": "",
-      "image": "",
+      "image": "https://github.com/kartikmalhotra/cakes_data/raw/master/rasmalai.jpeg",
       "price": {
         "1": "45",
         "1.5": "67",
@@ -92,9 +91,9 @@
       "description": ""
     },
     {
-      "title": "RASMALAI",
+      "title": "Pista",
       "ingredient": "",
-      "image": "",
+      "image": "https://github.com/kartikmalhotra/cakes_data/raw/master/pista.jpeg",
       "price": {
         "1": "45",
         "1.5": "67",
@@ -105,9 +104,9 @@
       "description": ""
     },
     {
-      "title": "PISTA",
+      "title": "Butter Scotch",
       "ingredient": "",
-      "image": "",
+      "image": "https://github.com/kartikmalhotra/cakes_data/raw/master/butter_scotch.jpeg",
       "price": {
         "1": "45",
         "1.5": "67",
@@ -118,9 +117,9 @@
       "description": ""
     },
     {
-      "title": "BUTTER SCOTCH",
+      "title": "Chocolate Truffle",
       "ingredient": "",
-      "image": "",
+      "image": "https://github.com/kartikmalhotra/cakes_data/raw/master/choclate_truffle.jpeg",
       "price": {
         "1": "45",
         "1.5": "67",
@@ -131,22 +130,9 @@
       "description": ""
     },
     {
-      "title": "CHOCOLATE TRUFFLE",
+      "title": "Cup Cake",
       "ingredient": "",
-      "image": "",
-      "price": {
-        "1": "45",
-        "1.5": "67",
-        "2": "90",
-        "2.5": "112",
-        "3": "135"
-      },
-      "description": ""
-    },
-    {
-      "title": "CUP CAKES",
-      "ingredient": "",
-      "image": "",
+      "image": "https://github.com/kartikmalhotra/cakes_data/raw/master/cup_cake.jpeg",
       "price": {
         "1": "45",
         "1.5": "67",
